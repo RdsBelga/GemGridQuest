@@ -2,7 +2,7 @@
 
 ## Overview
 
-The game simulates an environment where players navigate through a grid to collect jewels—such as diamonds, rubies, opals—while avoiding guardians. Each jewel has a value assessed in gold coins, and the guardians have life points. The game's objective is to accumulate wealth by collecting jewels and outmaneuvering the guardians on the board.
+The game simulates an environment where players navigate through a grid to collect jewels such as diamonds, rubies, opals while avoiding guardians. Each jewel has a value assessed in gold coins, and the guardians have life points. The game's objective is to accumulate wealth by collecting jewels and outmaneuvering the guardians on the board.
 
 ## Features
 
